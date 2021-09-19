@@ -1,3 +1,5 @@
+//Membuat Huruf I dan F
+
 function main(){
     /**
     * @type {HTMLCanvasElement} canvas
